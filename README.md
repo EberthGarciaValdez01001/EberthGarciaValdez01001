@@ -19,8 +19,7 @@
     <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
   </ul>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
-  </p>
+   [![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
 </div>
 
 
