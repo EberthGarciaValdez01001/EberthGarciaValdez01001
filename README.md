@@ -14,13 +14,10 @@
 
 <!-- Visitor's -->
 ----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
-  </ul>
-  <p align="center">
- ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=EberthGarciaValdez01001.EberthGarciaValdez01001)
-</div>
+<h2 align="center">Visitor's Count 👀</h2>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EberthGarciaValdez01001.EberthGarciaValdez01001" alt="Visitas">
+</p>
 
 
 <br/>
